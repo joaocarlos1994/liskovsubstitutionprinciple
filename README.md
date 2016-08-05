@@ -1,0 +1,4 @@
+# liskovsubstitutionprinciple
+
+
+add.
